@@ -1,0 +1,8 @@
+{
+  "name": "cloudwatch-to-logit",
+  "description": "CloudWatch Logs to Logit.io transporter",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.40.0"
+  }
+}
